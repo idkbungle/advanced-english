@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as n,ae as o}from"./chunks/framework.M8QpCINk.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Unit 6.md","filePath":"Unit 6.md"}'),i={name:"Unit 6.md"};function s(r,e,l,h,c,u){return n(),a("div",null,e[0]||(e[0]=[o("",25)]))}const p=t(i,[["render",s]]);export{g as __pageData,p as default};
