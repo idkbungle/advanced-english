@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as n,ae as o}from"./chunks/framework.AELpvxz7.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Unit 10.md","filePath":"Unit 10.md"}'),i={name:"Unit 10.md"};function s(r,e,h,l,u,m){return n(),a("div",null,e[0]||(e[0]=[o("",22)]))}const c=t(i,[["render",s]]);export{d as __pageData,c as default};
